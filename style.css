@@ -1,0 +1,19 @@
+body{
+    background-image: url(kR/kr.jpg)}
+
+.form{
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+
+.exit{
+    text-align: center;
+    background-color: antiquewhite;
+    width:50%;
+}
+.enter{
+    margin-left:450px;
+    margin-top:200px ;
+}
+    
