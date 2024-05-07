@@ -4,16 +4,18 @@ body{
 .form{
     text-align: center;
     text-transform: capitalize;
-    
+    border: 9px;
 }
+
 
 .exit{
     text-align: center;
     background-color: antiquewhite;
-    width:50%;
-}
+    width:60%;}
 .enter{
     margin-left:450px;
-    margin-top:200px ;
+    margin-top:200px ;  
 }
-    
+    .yyy{
+        border: 50px;
+    }
